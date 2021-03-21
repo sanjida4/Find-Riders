@@ -1,0 +1,10 @@
+*{
+    background-color: DeepSkyBlue;
+}
+.container{
+    align-self: flex-start;
+    margin-top: 20px;
+}
+.nav-item{
+    margin: 0px 15px;
+}

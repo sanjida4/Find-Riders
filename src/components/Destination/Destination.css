@@ -1,0 +1,20 @@
+.select-area-wrapper{
+    background-color: #EFEFEF;
+    padding: 20px;
+    border-radius: 10px;
+}
+.site-btn{
+    width: 100%;
+    background-color: slateblue;
+    border:1px solid slateblue;
+}
+.selected-area, .border-10{
+    border-radius: 10px;
+}
+.category{
+    margin-left: 20px;
+}
+.map{
+    height: 400px;
+    width: 400px;
+}

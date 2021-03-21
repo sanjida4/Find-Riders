@@ -1,0 +1,12 @@
+.rides{
+    margin-top: 20%;
+}
+.card img{
+    height: 180px;
+    width: 253px;
+}
+.card-title{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
